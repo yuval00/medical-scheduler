@@ -1,0 +1,17 @@
+{
+    "123456789": {
+        "name": "Yuval",
+        "phone": "0541234567",
+        "appointments": {}
+    },
+    "987654321": {
+        "name": "Maor",
+        "phone": "0521234567",
+        "appointments": {}
+    },
+    "678912345": {
+        "name": "Yael",
+        "phone": "0581234567",
+        "appointments": {}
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "Yuvan Aharon": {
+        "services": [
+            "Routine checkup",
+            "Flu shot",
+            "Reflex check"
+        ],
+        "appointments": {}
+    },
+    "Rachel Frumkin": {
+        "services": [
+            "Routine checkup",
+            "Eye inspection"
+        ],
+        "appointments": {}
+    },
+    "Eli Aharoni": {
+        "services": [
+            "Throat check",
+            "Ear check",
+            "Flu shot"
+        ],
+        "appointments": {}
+    },
+    "Danna Zinger": {
+        "services": [
+            "Routine checkup",
+            "Allergy check"
+        ],
+        "appointments": {}
+    }
+}
